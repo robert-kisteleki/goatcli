@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This repository has been merged together with goatAPI into [goat](https://github.com/robert-kisteleki/goat/) and will no longer be maintained.
+
 # goatcli - Go (RIPE) Atlas Tools - CLI
 
 goatcli provides a CLI to interact with [RIPE Atlas](https://atlas.ripe.net/) [APIs](https://atlas.ripe.net/api/v2/) using [Golang](https://go.dev/). It uses the [goatapi](https://github.com/robert-kisteleki/goatapi/) under the hood. It is similar to [Magellan](https://github.com/RIPE-NCC/ripe-atlas-tools).
